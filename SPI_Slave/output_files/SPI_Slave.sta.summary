@@ -1,0 +1,77 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'clk'
+Slack : -1.200
+TNS   : -20.965
+
+Type  : Slow 1200mV 85C Model Setup 'rxd_flag_r'
+Slack : 0.364
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'clk'
+Slack : -0.146
+TNS   : -0.146
+
+Type  : Slow 1200mV 85C Model Hold 'rxd_flag_r'
+Slack : -0.017
+TNS   : -0.033
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'clk'
+Slack : -3.000
+TNS   : -33.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'rxd_flag_r'
+Slack : -1.000
+TNS   : -8.000
+
+Type  : Slow 1200mV 0C Model Setup 'clk'
+Slack : -0.912
+TNS   : -16.034
+
+Type  : Slow 1200mV 0C Model Setup 'rxd_flag_r'
+Slack : 0.373
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'clk'
+Slack : -0.131
+TNS   : -0.131
+
+Type  : Slow 1200mV 0C Model Hold 'rxd_flag_r'
+Slack : 0.038
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'clk'
+Slack : -3.000
+TNS   : -33.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'rxd_flag_r'
+Slack : -1.000
+TNS   : -8.000
+
+Type  : Fast 1200mV 0C Model Setup 'clk'
+Slack : -0.263
+TNS   : -0.347
+
+Type  : Fast 1200mV 0C Model Setup 'rxd_flag_r'
+Slack : 0.671
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'clk'
+Slack : -0.187
+TNS   : -0.200
+
+Type  : Fast 1200mV 0C Model Hold 'rxd_flag_r'
+Slack : -0.075
+TNS   : -0.161
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'clk'
+Slack : -3.000
+TNS   : -34.637
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'rxd_flag_r'
+Slack : -1.000
+TNS   : -8.000
+
+------------------------------------------------------------

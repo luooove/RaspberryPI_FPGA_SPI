@@ -1,0 +1,22 @@
+
+State Machine - |SPI_Slave|txd_state
+Name txd_state.0111 txd_state.0110 txd_state.0101 txd_state.0100 txd_state.0011 txd_state.0010 txd_state.0001 txd_state.0000 
+txd_state.0000 0 0 0 0 0 0 0 0 
+txd_state.0001 0 0 0 0 0 0 1 1 
+txd_state.0010 0 0 0 0 0 1 0 1 
+txd_state.0011 0 0 0 0 1 0 0 1 
+txd_state.0100 0 0 0 1 0 0 0 1 
+txd_state.0101 0 0 1 0 0 0 0 1 
+txd_state.0110 0 1 0 0 0 0 0 1 
+txd_state.0111 1 0 0 0 0 0 0 1 
+
+State Machine - |SPI_Slave|rxd_state
+Name rxd_state.111 rxd_state.110 rxd_state.101 rxd_state.100 rxd_state.011 rxd_state.010 rxd_state.001 rxd_state.000 
+rxd_state.000 0 0 0 0 0 0 0 0 
+rxd_state.001 0 0 0 0 0 0 1 1 
+rxd_state.010 0 0 0 0 0 1 0 1 
+rxd_state.011 0 0 0 0 1 0 0 1 
+rxd_state.100 0 0 0 1 0 0 0 1 
+rxd_state.101 0 0 1 0 0 0 0 1 
+rxd_state.110 0 1 0 0 0 0 0 1 
+rxd_state.111 1 0 0 0 0 0 0 1 
